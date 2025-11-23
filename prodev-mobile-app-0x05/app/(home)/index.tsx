@@ -3,6 +3,8 @@ import { Feather } from "@expo/vector-icons";
 import PropertyListing from "@/components/PropertyListing";
 import { FILTERS, SAMPLE_DATA } from "@/constants/data";
 import { styles } from "@/styles/_homestyle";
+import PropertyListing from "@/components/PropertyListing";
+import { SAMPLE_DATA, FILTERS } from "@/constants/data";
 
 const Home = () => {
   return (
